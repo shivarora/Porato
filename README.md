@@ -1,6 +1,6 @@
-# Portfolio
+# Porato
 
-Node application for Portfolio.
+Node application for Porato. Just a test application.
 
 This service includes backend and frontend for My portfolio.
 
